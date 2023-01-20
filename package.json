@@ -19,5 +19,8 @@
   "homepage": "https://github.com/J0nK-LE/Jon-CO-App#readme",
   "devDependencies": {
     "concurrently": "^7.6.0"
+  },
+  "dependencies": {
+    "react-router-dom": "^6.7.0"
   }
 }

@@ -1,5 +1,4 @@
-### In the App.JS file is the code that works with the search bar
-### in the src/utils/filter is the code that works with the filter options
+### The top two links showcase the search function working and the filter function working. click to switch between the two
 
 
 ## Scripts
