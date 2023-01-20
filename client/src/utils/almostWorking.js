@@ -1,4 +1,3 @@
-//  ONLY THE FILTER WORKS HERE
 import React,  {
   useCallback,
   useEffect,
@@ -923,6 +922,7 @@ function WMIList(props) {
           </thead>
     <table>
     <td >
+      {/* This allows the filter function to work and if you replace "newData" with "searchedData" then the search function works */}
       {newData.map(wmi => (
         <WMI wmi={wmi} />
       ))}
