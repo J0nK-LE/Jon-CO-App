@@ -1,3 +1,7 @@
+In the App.JS file is the code that works with the search bar
+in the src/utils/filter is the code that works with the filter options
+
+
 ## Scripts
 
 In the project directory, you can run:
