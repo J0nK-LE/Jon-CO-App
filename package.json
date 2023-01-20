@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/caroffer/WMI-React-App.git"
+    "url": "git+https://github.com/J0nK-LE/Jon-CO-App.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/caroffer/WMI-React-App/issues"
+    "url": "https://github.com/J0nK-LE/Jon-CO-App/issues"
   },
-  "homepage": "https://github.com/caroffer/WMI-React-App#readme",
+  "homepage": "https://github.com/J0nK-LE/Jon-CO-App#readme",
   "devDependencies": {
     "concurrently": "^7.6.0"
   }
